@@ -38,7 +38,7 @@ I am a passionate Web Developer, Data Analyst, and Web Designer with a strong fo
 - **Bachelor of Science in Information Technology**  
   _Major in Business Technology Management_  
   **University of Southeastern Philippines**
-
+  **Batch 2025 **
 ---
 
 Thank you for visiting my profile!  
