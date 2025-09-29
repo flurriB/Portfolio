@@ -24,7 +24,7 @@ The project provides a centralized repository for storing research outputs with 
 </p>
 
 <p align="center">
-  <em>Figure 1: System UI Screens</em>
+  <em>Figure 1: Sample System UI Screens</em>
 
   
 </p>
