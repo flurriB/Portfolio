@@ -9,7 +9,7 @@ The project provides a centralized repository for storing research outputs with 
 
 ## 📸 UI Screenshots  
 <p>
-  <em>Some UI's blocked due to data privacy.</em>
+  <em>📌 *Note: Some UI's blocked due to data privacy.</em>
 
 </p>
 
