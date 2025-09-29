@@ -9,7 +9,7 @@ The project provides a centralized repository for storing research outputs with 
 
 ## 📸 UI Screenshots  
 <p>
-  <em>Some UI's blocked due to data privacy</em>
+  <em>Some UI's blocked due to data privacy.</em>
 
 </p>
 
@@ -24,7 +24,7 @@ The project provides a centralized repository for storing research outputs with 
 </p>
 
 <p align="center">
-  <em>Figure 1: Sample System UI Screens</em>
+  <em>Figure 1: Sample System UI Screens.</em>
 
   
 </p>
