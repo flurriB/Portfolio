@@ -16,7 +16,7 @@ The project provides a centralized repository for storing research outputs with 
 - [Bootstrap](https://getbootstrap.com/) – Responsive design framework  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Client-side interactivity  
 - [Chart.js](https://www.chartjs.org/) – Data visualization with charts
-
+---
 ## 📸 UI Screenshots  
 <p>
   <em>📌 *Note: Some UI's were blocked due to data privacy.</em>
