@@ -6,6 +6,16 @@ The project provides a centralized repository for storing research outputs with 
 **Source Code:** [GitHub – CIC-RRS](https://github.com/Flurry22/CIC-RRS)  
 
 ---
+## 🛠️ Tech Stack  
+
+**Backend:**  
+- [Laravel](https://laravel.com/) – PHP framework for backend and routing  
+- [MySQL](https://www.mysql.com/) – Relational database  
+
+**Frontend:**  
+- [Bootstrap](https://getbootstrap.com/) – Responsive design framework  
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Client-side interactivity  
+- [Chart.js](https://www.chartjs.org/) – Data visualization with charts
 
 ## 📸 UI Screenshots  
 <p>
